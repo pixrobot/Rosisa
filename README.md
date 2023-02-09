@@ -9,4 +9,5 @@ input("")
 It is a very simple personal assistant programmed in python, just like i said up top.
 Normally recieves daily updates.
 The version number will only be raised when one day has passed.
-
+There is not much to talk about here.
+Stay tuned for v0.0.2 10.02.2023!
